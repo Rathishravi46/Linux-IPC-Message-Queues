@@ -92,8 +92,8 @@ int main()
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/8ab47ac4-b4c0-40e7-bfe8-da4c4c254f1c)
 
+![Alt text](<imgs/Screenshot at 2025-11-20 07-01-17.png>)
 
 
 
