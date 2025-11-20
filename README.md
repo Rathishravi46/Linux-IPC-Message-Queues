@@ -95,7 +95,5 @@ int main()
 
 ![Alt text](<imgs/Screenshot at 2025-11-20 07-01-17.png>)
 
-
-
 # RESULT:
-The programs are executed successfully.
+The programs are executed successfully
